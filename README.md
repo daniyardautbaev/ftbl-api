@@ -21,6 +21,8 @@
 git clone https://github.com/daniyardautbaev/ftbl-api.git
 
 # 2. Переходим в папку проекта
+
+
 cd ftbl-api
 
 # 3. Запускаем MySQL через Docker
